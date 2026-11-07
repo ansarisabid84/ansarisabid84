@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ansarisabid"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4K&labelColor=0a0e17" alt="Sabid Ansari on LinkedIn" /></a>
-  <a href="#02--selected-work"><img src="https://img.shields.io/badge/Google%20Play-4%20apps%20live-22d3ee?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=0a0e17" alt="4 apps live on Google Play" /></a>
+  <a href="https://play.google.com/store/apps/developer?id=Sabid+Ansari"><img src="https://img.shields.io/badge/Google%20Play-4%20apps%20live-22d3ee?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=0a0e17" alt="4 apps live on Google Play" /></a>
   <a href="https://www.linkedin.com/in/ansarisabid"><img src="https://img.shields.io/badge/Open%20to-Engineering%20Lead%20roles-22c55e?style=for-the-badge&labelColor=0a0e17" alt="Open to Engineering Lead roles" /></a>
 </p>
 
@@ -56,7 +56,7 @@ const sabid = {
 
 ## 02 — Selected work
 
-Apps I designed, built and published on my own — all live on Google Play, all fully offline, no ads.
+Apps I designed, built and published on my own — all live on [Google Play](https://play.google.com/store/apps/developer?id=Sabid+Ansari), all fully offline, no ads.
 
 <!-- ─────────────── 01 · AppLock ─────────────── -->
 
@@ -224,7 +224,7 @@ Highlights from Accenture and TalentSprint (part of Accenture). Code is propriet
 <p align="center">
   <a href="https://www.linkedin.com/in/ansarisabid"><img src="https://img.shields.io/badge/LinkedIn-ansarisabid-0a66c2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4K&labelColor=0a0e17" alt="LinkedIn" /></a>
   <a href="https://github.com/ansarisabid84"><img src="https://img.shields.io/badge/GitHub-ansarisabid84-818cf8?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e17" alt="GitHub" /></a>
-  <a href="https://play.google.com/store/apps/details?id=com.sabid.applock"><img src="https://img.shields.io/badge/Google%20Play-My%20apps-22d3ee?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=0a0e17" alt="My apps on Google Play" /></a>
+  <a href="https://play.google.com/store/apps/developer?id=Sabid+Ansari"><img src="https://img.shields.io/badge/Google%20Play-My%20apps-22d3ee?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=0a0e17" alt="My apps on Google Play" /></a>
 </p>
 
 <p align="center">
